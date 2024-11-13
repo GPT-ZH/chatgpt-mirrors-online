@@ -11,7 +11,7 @@
 
 ## 使用方法
 1. 点击以下链接，直接访问 **ChatGPT 镜像网站**：
-   [ChatGPT 镜像网站在线访问](https://tz.zhufushipinzhizuo.com/282.html)
+   [https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html)
 2. 无需任何登录或注册，直接在页面上与 ChatGPT 进行对话。
 3. 可以进行不限次数的互动，享受免费、高效的聊天体验。
 
